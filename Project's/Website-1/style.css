@@ -238,7 +238,7 @@
     margin: auto;
     padding: 10% 10%;
     position: relative;
-    background: url(../img/2\ bg\ img.png);
+    background: url(img/2\ bg\ img.png);
     object-fit: contain;
     background-repeat: no-repeat;
 }
@@ -391,7 +391,7 @@
 }
 
 .popular {
-    background: url(../img/2\ bg\ img.png);
+    background: url(img/2\ bg\ img.png);
     object-fit: cover;
     background-repeat: no-repeat;
     padding-bottom: 10%;
@@ -403,7 +403,7 @@
     display: grid;
     justify-content: center;
     align-items: center;
-    background: url(./images/Image.png);
+    background: url(images/Image.png);
     background-repeat: no-repeat;
     padding-bottom: 10%;
     background-size: 100%;
@@ -436,7 +436,7 @@
 
 .miss {
     width: 100%;
-    background: url(./images/Design.png);
+    background: url(images/Design.png);
     object-fit: cover;
     background-repeat: no-repeat;
     background-size: 100%;
